@@ -1,2 +1,2 @@
 # marinetti
-imputing and disentangling accelerator control parameters 
+making particle accelerators go brrrrr
