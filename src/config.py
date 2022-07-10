@@ -1,7 +1,6 @@
 params_dict = {
     'control_params': [
         'Fwd1Amp',
-        'SparePhs',
         'LP_Phase',
         'Rev_Phs',
         'Fwd1Phs',
