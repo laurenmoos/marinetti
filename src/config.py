@@ -11,6 +11,7 @@ params_dict = {
         'LP_Amp',
         'Fwd2Amp'
     ], 'lcam_rms_cent': [
+        'LCam1COM',
         'LCamGauss_xCentroid',
         'LCamGauss_yCentroid',
         'LCamGauss_uCentroid',
